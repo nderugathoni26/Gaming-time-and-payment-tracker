@@ -1,4 +1,7 @@
 GAMING-TIME- AND PAYMENT-TRACKER
+
+
+
 Overview
 Gaming-Time-and-Payment-Tracker is a robust system designed to track gaming time, manage payments and billing, and maintain detailed records. This project is tailored for gaming centers, e-sports lounges, or individual gamers looking to monitor usage, expenses, and activities effectively.
 
