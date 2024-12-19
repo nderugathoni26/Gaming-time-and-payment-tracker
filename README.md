@@ -3,9 +3,13 @@ GAMING-TIME- AND PAYMENT-TRACKER
 
 
 Overview
+
+
 Gaming-Time-and-Payment-Tracker is a robust system designed to track gaming time, manage payments and billing, and maintain detailed records. This project is tailored for gaming centers, e-sports lounges, or individual gamers looking to monitor usage, expenses, and activities effectively.
 
 Features
+
+
 Gaming Time Tracking
 
 Tracks the duration of gaming sessions.
@@ -33,6 +37,8 @@ Database: MySQL for storing user data, session logs, and payment details
 Frameworks/Libraries: Bootstrap (for styling), Chart.js (optional for analytics)
 
 Future Enhancements
+
+
 Integration with loyalty rewards programs.
 Enhanced analytics with real-time insights and reporting.
 Mobile application for on-the-go session tracking and payments.
